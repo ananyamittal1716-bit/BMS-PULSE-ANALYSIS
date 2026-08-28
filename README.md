@@ -4,6 +4,7 @@ Executive Summary
 The digital revolution has changed the way businesses conduct themselves and interact with consumers. BookMyShow, one of India's largest entertainment ticketing platforms, has managed to make movie and live event booking much easier and efficient, but been plagued with issues in last minute sales of tickets such as long virtual queues, payment failures, and lack of clarity on bookings. This report investigates the current digital business systems of BookMyShow in terms of TPS, MIS, DSS, Enterprise Systems, and Business Intelligence, and suggests to them an enhancement to their current system using Artificial Intelligence: BookMyShow Pulse, which includes queue intelligence, predictive wait times, dynamic waitlists, management dashboards and tailored recommendations for better customer experience and decision making without replacing their current system.
 
 1. Organization Overview
+
 1.1 Company Overview
 BookMyShow is the country's biggest online entertainment ticketing site. The company was established by Ashish Hemrajani in 1999 with the mission of online movie ticket bookings, but has since diversified into live entertainment. Now, BookMyShow offers ticket sales for movies, concerts, sporting events, stand-up comedy shows, theatre performances, festivals and digital entertainment.
 It has come a long way since its beginnings as a booking app to become the whole digital entertainment system for the customer, theatres, event organizers, payment providers, advertisers and business partners with its integrated information system.
